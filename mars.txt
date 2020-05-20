@@ -1,6 +1,13 @@
 Cold and dry, but everything is my favourite color.
 The two moons may be a problem for Wolfman.
 But the mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 This is Miranda editing this file 
 Yes I have received the edit
 I have also seen the edit.
+=======
+This is Miranda editing this file
+Feeling good about mars but might want to explore other planets
+Wondering if it's too cold to live here 
+It should be cold I think 
+>>>>>>> 0caaf4129135fdf15b9e1ba68b6a8f1a5606d8c5
